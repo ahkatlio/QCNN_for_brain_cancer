@@ -1,4 +1,5 @@
-
+# QCNN and CNN for Brain Tumor Classification
+To see the machine learning model trained on this dataset, please refer to the [Model.ipynb](Model.ipynb) Jupyter notebook in this repository. 
 
 
 
