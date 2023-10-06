@@ -48,7 +48,7 @@ For any inquiries or issues related to this dataset, you can contact the dataset
 I hope this dataset proves valuable for your research and contributes to advancements in brain tumor classification and analysis.
 
 
-# Versions of the libraries used
+# Versions of the used libraries 
 
 | Library Name | Version |
 |--------------|---------|
