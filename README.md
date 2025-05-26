@@ -22,8 +22,8 @@ All experiments presented in the paper were conducted using this codebase. Users
 ## Contents
 
 - `Model.ipynb` – Main notebook implementing and comparing the HQCNN and classical CNN models  
-- `Resize.ipynb` – Preprocessing notebook for resizing MRI images for quantum-compatible input  
-- `Resize_Classical.ipynb` – Preprocessing for classical CNN input format  
+-  `Resize/` – Folder for resizing MRI images for quantum-compatible input
+- `Resize_Classical/` – Folder for classical CNN input format
 - `brainTumorDataPublic/` – Directory containing the brain tumor dataset 
 - `checkpoints/` – Saved model weights for evaluation and inference  
 - `Images/` – Output plots and visualizations used in the paper  
